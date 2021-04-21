@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/maste/Desktop/Practica5_A171314/ejemplo1.xsl"?>
+<Animales>
+<Animal>
+  <Nombre>Leon</Nombre>
+  <Familia>Felinos</Familia>
+</Animal>
+<Animal>
+  <Nombre>Lobo</Nombre>
+  <Familia>Canidos</Familia>
+</Animal>
+<Animal>
+  <Nombre>Loro</Nombre>
+  <Familia>Aves</Familia>
+</Animal>
+</Animales>
